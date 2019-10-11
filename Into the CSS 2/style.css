@@ -1,0 +1,50 @@
+body {
+    background-color: aliceblue;
+    background-image: url(lion.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.mainheader {
+    background-color: bisque;
+}
+
+.newclass {
+    background: linear-gradient(to right, #00ccff, #b3f0ff);
+    color: brown;
+    box-shadow: 3px 5px 3px black;
+}
+
+h1,
+h2 {
+    text-shadow: 1px 1px 1px black;
+    font-family: sans-serif;
+
+}
+
+.borderimage {
+    border: 3px dotted red;
+    backface-visibility: visible;
+}
+
+ul li {
+    color: #0000cc;
+    font-size: 20px;
+}
+
+ol > li {
+    color: #ff00ff;
+}
+
+.lists {
+
+    color: aquamarine;
+    box-shadow: 2px 2px 3px red;
+    font-family: cursive;
+}
+
+.video_em {
+    border-color: aqua;
+    box-shadow: 2px 2px 3px red;
+}

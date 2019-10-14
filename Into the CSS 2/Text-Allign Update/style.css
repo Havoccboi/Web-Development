@@ -1,0 +1,68 @@
+body {
+    background-color: aliceblue;
+    /*
+    background-image: url(background-web.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+*/
+
+    font-family: "Times New Roman", sans-serif;
+
+
+
+}
+
+.mainheader {
+    background-color: bisque;
+}
+
+.newclass {
+    background: linear-gradient(to right, #00ccff, #b3f0ff);
+    color: brown;
+    box-shadow: 3px 5px 3px black;
+}
+
+h1,
+h2 {
+    text-shadow: 1px 1px 1px black;
+    font-family: sans-serif;
+    font-size: 2em;
+
+}
+
+.borderimage {
+    border: 3px dotted red;
+    backface-visibility: visible;
+}
+
+ul li {
+    color: #0000cc;
+    font-size: 1.3em;
+    font-style: italic;
+    /*    text-decoration: underline;*/
+    /*  letter-spacing: 1px;*/
+    /*            word-spacing: */
+
+}
+
+ol > li {
+    color: #ff00ff;
+}
+
+.lists {
+
+    color: aquamarine;
+    box-shadow: 2px 2px 3px red;
+
+}
+
+.video_em {
+    border-color: aqua;
+    box-shadow: 2px 2px 3px red;
+}
+
+.formatting {
+    line-height: 2em;
+    color: black;
+    font-size: 25px;
+}

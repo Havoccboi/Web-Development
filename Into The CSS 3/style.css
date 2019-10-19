@@ -1,0 +1,68 @@
+body {
+    background-color: aliceblue;
+
+    background-image: url(newwal.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+    font-family: 'Ubuntu', sans-serif;
+
+
+
+}
+
+.mainheader {
+    background-color: bisque;
+}
+
+.newclass {
+    background: linear-gradient(to right, #00ccff, #b3f0ff);
+    color: brown;
+    box-shadow: 3px 5px 3px black;
+}
+
+h1,
+h2 {
+    text-shadow: 1px 1px 1px black;
+    font-family: sans-serif;
+    font-size: 2rem
+}
+
+.navbar {
+    background-image: linear-gradient(#99bbff, #e6eeff);
+    font-size: 20px;
+}
+
+
+ul li {
+    color: #0000cc;
+    font-size: 1.3em;
+    font-style: italic;
+    /*    text-decoration: underline;*/
+    /*  letter-spacing: 1px;*/
+    /*            word-spacing: */
+
+}
+
+ol > li {
+    color: #ff00ff;
+}
+
+.lists {
+
+    color: aquamarine;
+    box-shadow: 2px 2px 3px red;
+
+}
+
+.video_em {
+    border-color: aqua;
+    box-shadow: 2px 2px 3px red;
+}
+
+.formatting {
+    line-height: 2em;
+    color: azure;
+    font-size: 25px;
+}

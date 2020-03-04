@@ -11,7 +11,7 @@ include('captcha.php');
 
 <script 
 {literal}
-type="text/javascript" src="https://www.google.com/recaptcha/api.js?render=6LcYvN0UAAAAAKr6SF85mzSDXVZdzgKRKsvtMRbN"> 
+type="text/javascript" src="https://www.google.com/recaptcha/api.js?render=SECRET_CAPTCHA_KEY"> 
 {/literal}
  </script>
 
